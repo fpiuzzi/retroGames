@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text.Json;
+﻿using System.Text.Json;
 using retroGames.Collections;
 
 namespace retroGames
@@ -16,9 +12,15 @@ namespace retroGames
             List<Game> games = LoadGames("listGames.json");
             Console.WriteLine($"Chargement des {games.Count} jeux trouvés.");
 
-            foreach (var game in games)
+            // Regroupement par Platform pour l'affichage initial
+            var groupedByPlatform = games.GroupBy(g => g.Platform);
+            foreach (var group in groupedByPlatform)
             {
-                Console.WriteLine($"ID: {game.Id}, Title: {game.Title}, ReleaseYear: {game.ReleaseYear}, Platform: {game.Platform}, Genre: {game.Genre}");
+                Console.WriteLine($"\nPlateforme: {group.Key}");
+                foreach (var game in group)
+                {
+                    Console.WriteLine($"ID: {game.Id}, Title: {game.Title}, ReleaseYear: {game.ReleaseYear}, Platform: {game.Platform}, Genre: {game.Genre}");
+                }
             }
 
             var availableGenres = games.Select(g => g.Genre).Distinct().OrderBy(g => g).ToList();
@@ -37,9 +39,14 @@ namespace retroGames
             Console.WriteLine($"\nRésultat par genre '{(string.IsNullOrEmpty(genreInput) ? "Tous la liste" : genreInput)}':");
             if (filteredGames.Any())
             {
-                foreach (var game in filteredGames)
+                var groupedByGenre = filteredGames.GroupBy(g => g.Genre);
+                foreach (var group in groupedByGenre)
                 {
-                    Console.WriteLine($"- {game.Title} ({game.ReleaseYear}) - {game.Platform}");
+                    Console.WriteLine($"\nGenre: {group.Key}");
+                    foreach (var game in group)
+                    {
+                        Console.WriteLine($"- {game.Title} ({game.ReleaseYear}) - {game.Platform}");
+                    }
                 }
             }
             else
@@ -62,7 +69,7 @@ namespace retroGames
         {
             if (!File.Exists(path))
             {
-                throw new FileNotFoundException($"The file {path} was not found.");
+                throw new FileNotFoundException($"Le fichier {path} n'existe pas.");
             }
 
             var options = new JsonSerializerOptions
@@ -71,7 +78,7 @@ namespace retroGames
             };
             var json = File.ReadAllText(path);
             var games = JsonSerializer.Deserialize<List<Game>>(json, options);
-            return games ?? throw new InvalidOperationException("Failed to deserialize games.");
+            return games ?? throw new InvalidOperationException("Echec de chargement.");
         }
 
         static void ExportGames(List<Game> games, string path)
