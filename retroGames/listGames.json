@@ -1,0 +1,982 @@
+[
+  {
+    "id": 1,
+    "title": "Donkey Kong",
+    "platform": "Game Boy",
+    "release_year": 1990,
+    "genre": "Platformer"
+  },
+  {
+    "id": 2,
+    "title": "Contra 1",
+    "platform": "Master System",
+    "release_year": 1979,
+    "genre": "Action"
+  },
+  {
+    "id": 3,
+    "title": "Mega Man 5",
+    "platform": "Atari 2600",
+    "release_year": 1982,
+    "genre": "Platformer"
+  },
+  {
+    "id": 4,
+    "title": "Final Fantasy",
+    "platform": "SNES",
+    "release_year": 1997,
+    "genre": "RPG"
+  },
+  {
+    "id": 5,
+    "title": "Contra 4",
+    "platform": "Atari 2600",
+    "release_year": 1997,
+    "genre": "Action"
+  },
+  {
+    "id": 6,
+    "title": "Double Dragon",
+    "platform": "Sega Genesis",
+    "release_year": 1989,
+    "genre": "Beat 'em up"
+  },
+  {
+    "id": 7,
+    "title": "Galaga",
+    "platform": "Master System",
+    "release_year": 1984,
+    "genre": "Shooter"
+  },
+  {
+    "id": 8,
+    "title": "Bomberman",
+    "platform": "Master System",
+    "release_year": 1991,
+    "genre": "Action"
+  },
+  {
+    "id": 9,
+    "title": "F-Zero",
+    "platform": "Atari 2600",
+    "release_year": 1992,
+    "genre": "Racing"
+  },
+  {
+    "id": 10,
+    "title": "Double Dragon",
+    "platform": "Master System",
+    "release_year": 1979,
+    "genre": "Beat 'em up"
+  },
+  {
+    "id": 11,
+    "title": "Punch-Out!!",
+    "platform": "Master System",
+    "release_year": 1986,
+    "genre": "Sports"
+  },
+  {
+    "id": 12,
+    "title": "F-Zero",
+    "platform": "Neo Geo",
+    "release_year": 1993,
+    "genre": "Racing"
+  },
+  {
+    "id": 13,
+    "title": "Donkey Kong",
+    "platform": "Neo Geo",
+    "release_year": 1989,
+    "genre": "Platformer"
+  },
+  {
+    "id": 14,
+    "title": "Duck Hunt",
+    "platform": "Master System",
+    "release_year": 1999,
+    "genre": "Shooter"
+  },
+  {
+    "id": 15,
+    "title": "Tetris",
+    "platform": "Atari 2600",
+    "release_year": 1992,
+    "genre": "Puzzle"
+  },
+  {
+    "id": 16,
+    "title": "Metroid",
+    "platform": "Atari 2600",
+    "release_year": 1990,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 17,
+    "title": "Pac-Man",
+    "platform": "SNES",
+    "release_year": 1988,
+    "genre": "Arcade"
+  },
+  {
+    "id": 18,
+    "title": "Duck Hunt",
+    "platform": "Master System",
+    "release_year": 1988,
+    "genre": "Shooter"
+  },
+  {
+    "id": 19,
+    "title": "EarthBound",
+    "platform": "Game Boy",
+    "release_year": 1990,
+    "genre": "RPG"
+  },
+  {
+    "id": 20,
+    "title": "F-Zero 3",
+    "platform": "NES",
+    "release_year": 1985,
+    "genre": "Racing"
+  },
+  {
+    "id": 21,
+    "title": "Pac-Man",
+    "platform": "NES",
+    "release_year": 1994,
+    "genre": "Arcade"
+  },
+  {
+    "id": 22,
+    "title": "Donkey Kong",
+    "platform": "Atari 2600",
+    "release_year": 1981,
+    "genre": "Platformer"
+  },
+  {
+    "id": 23,
+    "title": "Punch-Out!!",
+    "platform": "Game Boy",
+    "release_year": 1983,
+    "genre": "Sports"
+  },
+  {
+    "id": 24,
+    "title": "Bomberman 2",
+    "platform": "Atari 2600",
+    "release_year": 1986,
+    "genre": "Action"
+  },
+  {
+    "id": 25,
+    "title": "EarthBound 1",
+    "platform": "Arcade",
+    "release_year": 1987,
+    "genre": "RPG"
+  },
+  {
+    "id": 26,
+    "title": "Bomberman 1",
+    "platform": "Sega Genesis",
+    "release_year": 1980,
+    "genre": "Action"
+  },
+  {
+    "id": 27,
+    "title": "Tetris 4",
+    "platform": "Sega Genesis",
+    "release_year": 1979,
+    "genre": "Puzzle"
+  },
+  {
+    "id": 28,
+    "title": "Duck Hunt",
+    "platform": "Atari 2600",
+    "release_year": 1998,
+    "genre": "Shooter"
+  },
+  {
+    "id": 29,
+    "title": "EarthBound",
+    "platform": "Game Boy",
+    "release_year": 1980,
+    "genre": "RPG"
+  },
+  {
+    "id": 30,
+    "title": "Duck Hunt",
+    "platform": "Game Boy",
+    "release_year": 1990,
+    "genre": "Shooter"
+  },
+  {
+    "id": 31,
+    "title": "Punch-Out!! 2",
+    "platform": "NES",
+    "release_year": 1982,
+    "genre": "Sports"
+  },
+  {
+    "id": 32,
+    "title": "Bomberman",
+    "platform": "Arcade",
+    "release_year": 1989,
+    "genre": "Action"
+  },
+  {
+    "id": 33,
+    "title": "Donkey Kong 2",
+    "platform": "Atari 2600",
+    "release_year": 1980,
+    "genre": "Platformer"
+  },
+  {
+    "id": 34,
+    "title": "Final Fantasy 1",
+    "platform": "Arcade",
+    "release_year": 1986,
+    "genre": "RPG"
+  },
+  {
+    "id": 35,
+    "title": "F-Zero",
+    "platform": "Master System",
+    "release_year": 1981,
+    "genre": "Racing"
+  },
+  {
+    "id": 36,
+    "title": "Donkey Kong",
+    "platform": "Sega Genesis",
+    "release_year": 1988,
+    "genre": "Platformer"
+  },
+  {
+    "id": 37,
+    "title": "Donkey Kong 2",
+    "platform": "Game Boy",
+    "release_year": 1982,
+    "genre": "Platformer"
+  },
+  {
+    "id": 38,
+    "title": "Bomberman",
+    "platform": "Neo Geo",
+    "release_year": 1988,
+    "genre": "Action"
+  },
+  {
+    "id": 39,
+    "title": "Gradius",
+    "platform": "Master System",
+    "release_year": 1991,
+    "genre": "Shooter"
+  },
+  {
+    "id": 40,
+    "title": "F-Zero 2",
+    "platform": "SNES",
+    "release_year": 1984,
+    "genre": "Racing"
+  },
+  {
+    "id": 41,
+    "title": "Punch-Out!!",
+    "platform": "Sega Genesis",
+    "release_year": 1998,
+    "genre": "Sports"
+  },
+  {
+    "id": 42,
+    "title": "Metroid 2",
+    "platform": "Arcade",
+    "release_year": 1998,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 43,
+    "title": "Galaga 4",
+    "platform": "Atari 2600",
+    "release_year": 1985,
+    "genre": "Shooter"
+  },
+  {
+    "id": 44,
+    "title": "Donkey Kong 5",
+    "platform": "NES",
+    "release_year": 1992,
+    "genre": "Platformer"
+  },
+  {
+    "id": 45,
+    "title": "Punch-Out!!",
+    "platform": "Game Boy",
+    "release_year": 1982,
+    "genre": "Sports"
+  },
+  {
+    "id": 46,
+    "title": "Gradius 2",
+    "platform": "Master System",
+    "release_year": 1995,
+    "genre": "Shooter"
+  },
+  {
+    "id": 47,
+    "title": "Metroid",
+    "platform": "SNES",
+    "release_year": 1985,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 48,
+    "title": "Street Fighter II",
+    "platform": "Sega Genesis",
+    "release_year": 1996,
+    "genre": "Fighting"
+  },
+  {
+    "id": 49,
+    "title": "Mega Man",
+    "platform": "Atari 2600",
+    "release_year": 1994,
+    "genre": "Platformer"
+  },
+  {
+    "id": 50,
+    "title": "Castlevania",
+    "platform": "Atari 2600",
+    "release_year": 1987,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 51,
+    "title": "Super Mario Bros.",
+    "platform": "SNES",
+    "release_year": 1985,
+    "genre": "Platformer"
+  },
+  {
+    "id": 52,
+    "title": "Bomberman 3",
+    "platform": "SNES",
+    "release_year": 1994,
+    "genre": "Action"
+  },
+  {
+    "id": 53,
+    "title": "Super Mario Bros. 3",
+    "platform": "Neo Geo",
+    "release_year": 1981,
+    "genre": "Platformer"
+  },
+  {
+    "id": 54,
+    "title": "Castlevania",
+    "platform": "Master System",
+    "release_year": 1996,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 55,
+    "title": "Castlevania 1",
+    "platform": "SNES",
+    "release_year": 1984,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 56,
+    "title": "EarthBound",
+    "platform": "Sega Genesis",
+    "release_year": 1989,
+    "genre": "RPG"
+  },
+  {
+    "id": 57,
+    "title": "Punch-Out!!",
+    "platform": "Neo Geo",
+    "release_year": 1981,
+    "genre": "Sports"
+  },
+  {
+    "id": 58,
+    "title": "Contra 3",
+    "platform": "Sega Genesis",
+    "release_year": 1988,
+    "genre": "Action"
+  },
+  {
+    "id": 59,
+    "title": "Final Fantasy 4",
+    "platform": "Atari 2600",
+    "release_year": 1992,
+    "genre": "RPG"
+  },
+  {
+    "id": 60,
+    "title": "Gradius 1",
+    "platform": "Sega Genesis",
+    "release_year": 1981,
+    "genre": "Shooter"
+  },
+  {
+    "id": 61,
+    "title": "Donkey Kong",
+    "platform": "Master System",
+    "release_year": 1992,
+    "genre": "Platformer"
+  },
+  {
+    "id": 62,
+    "title": "Gradius",
+    "platform": "Atari 2600",
+    "release_year": 1996,
+    "genre": "Shooter"
+  },
+  {
+    "id": 63,
+    "title": "Final Fantasy",
+    "platform": "Sega Genesis",
+    "release_year": 1997,
+    "genre": "RPG"
+  },
+  {
+    "id": 64,
+    "title": "Galaga",
+    "platform": "Sega Genesis",
+    "release_year": 1989,
+    "genre": "Shooter"
+  },
+  {
+    "id": 65,
+    "title": "Mega Man 1",
+    "platform": "Neo Geo",
+    "release_year": 1989,
+    "genre": "Platformer"
+  },
+  {
+    "id": 66,
+    "title": "EarthBound",
+    "platform": "Game Boy",
+    "release_year": 1990,
+    "genre": "RPG"
+  },
+  {
+    "id": 67,
+    "title": "Tetris 5",
+    "platform": "Master System",
+    "release_year": 1994,
+    "genre": "Puzzle"
+  },
+  {
+    "id": 68,
+    "title": "Duck Hunt",
+    "platform": "NES",
+    "release_year": 1983,
+    "genre": "Shooter"
+  },
+  {
+    "id": 69,
+    "title": "Castlevania",
+    "platform": "Atari 2600",
+    "release_year": 1989,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 70,
+    "title": "Street Fighter II 4",
+    "platform": "Atari 2600",
+    "release_year": 1988,
+    "genre": "Fighting"
+  },
+  {
+    "id": 71,
+    "title": "Duck Hunt 5",
+    "platform": "NES",
+    "release_year": 1985,
+    "genre": "Shooter"
+  },
+  {
+    "id": 72,
+    "title": "Donkey Kong",
+    "platform": "Game Boy",
+    "release_year": 1998,
+    "genre": "Platformer"
+  },
+  {
+    "id": 73,
+    "title": "Galaga",
+    "platform": "Neo Geo",
+    "release_year": 1983,
+    "genre": "Shooter"
+  },
+  {
+    "id": 74,
+    "title": "Pac-Man",
+    "platform": "SNES",
+    "release_year": 1980,
+    "genre": "Arcade"
+  },
+  {
+    "id": 75,
+    "title": "Bomberman",
+    "platform": "Sega Genesis",
+    "release_year": 1999,
+    "genre": "Action"
+  },
+  {
+    "id": 76,
+    "title": "Bomberman",
+    "platform": "Neo Geo",
+    "release_year": 1996,
+    "genre": "Action"
+  },
+  {
+    "id": 77,
+    "title": "Metroid",
+    "platform": "Game Boy",
+    "release_year": 1991,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 78,
+    "title": "EarthBound",
+    "platform": "NES",
+    "release_year": 1992,
+    "genre": "RPG"
+  },
+  {
+    "id": 79,
+    "title": "Bomberman",
+    "platform": "Atari 2600",
+    "release_year": 1994,
+    "genre": "Action"
+  },
+  {
+    "id": 80,
+    "title": "Double Dragon",
+    "platform": "Sega Genesis",
+    "release_year": 1979,
+    "genre": "Beat 'em up"
+  },
+  {
+    "id": 81,
+    "title": "Punch-Out!! 4",
+    "platform": "NES",
+    "release_year": 1993,
+    "genre": "Sports"
+  },
+  {
+    "id": 82,
+    "title": "Super Mario Bros. 5",
+    "platform": "Master System",
+    "release_year": 1987,
+    "genre": "Platformer"
+  },
+  {
+    "id": 83,
+    "title": "Tetris",
+    "platform": "Master System",
+    "release_year": 1987,
+    "genre": "Puzzle"
+  },
+  {
+    "id": 84,
+    "title": "Bomberman",
+    "platform": "Sega Genesis",
+    "release_year": 1982,
+    "genre": "Action"
+  },
+  {
+    "id": 85,
+    "title": "Pac-Man 3",
+    "platform": "Neo Geo",
+    "release_year": 1984,
+    "genre": "Arcade"
+  },
+  {
+    "id": 86,
+    "title": "Sonic the Hedgehog",
+    "platform": "Master System",
+    "release_year": 1991,
+    "genre": "Platformer"
+  },
+  {
+    "id": 87,
+    "title": "Bomberman 3",
+    "platform": "Arcade",
+    "release_year": 1998,
+    "genre": "Action"
+  },
+  {
+    "id": 88,
+    "title": "The Legend of Zelda 3",
+    "platform": "Game Boy",
+    "release_year": 1988,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 89,
+    "title": "Galaga",
+    "platform": "Sega Genesis",
+    "release_year": 1991,
+    "genre": "Shooter"
+  },
+  {
+    "id": 90,
+    "title": "EarthBound 2",
+    "platform": "Game Boy",
+    "release_year": 1985,
+    "genre": "RPG"
+  },
+  {
+    "id": 91,
+    "title": "Super Mario Bros. 2",
+    "platform": "Neo Geo",
+    "release_year": 1981,
+    "genre": "Platformer"
+  },
+  {
+    "id": 92,
+    "title": "Donkey Kong",
+    "platform": "SNES",
+    "release_year": 1995,
+    "genre": "Platformer"
+  },
+  {
+    "id": 93,
+    "title": "Bomberman",
+    "platform": "SNES",
+    "release_year": 1979,
+    "genre": "Action"
+  },
+  {
+    "id": 94,
+    "title": "Sonic the Hedgehog",
+    "platform": "Arcade",
+    "release_year": 1995,
+    "genre": "Platformer"
+  },
+  {
+    "id": 95,
+    "title": "Castlevania",
+    "platform": "Game Boy",
+    "release_year": 1994,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 96,
+    "title": "Sonic the Hedgehog",
+    "platform": "Neo Geo",
+    "release_year": 1985,
+    "genre": "Platformer"
+  },
+  {
+    "id": 97,
+    "title": "Super Mario Bros.",
+    "platform": "NES",
+    "release_year": 1983,
+    "genre": "Platformer"
+  },
+  {
+    "id": 98,
+    "title": "Bomberman",
+    "platform": "Game Boy",
+    "release_year": 1998,
+    "genre": "Action"
+  },
+  {
+    "id": 99,
+    "title": "F-Zero",
+    "platform": "Neo Geo",
+    "release_year": 1992,
+    "genre": "Racing"
+  },
+  {
+    "id": 100,
+    "title": "Bomberman",
+    "platform": "SNES",
+    "release_year": 1985,
+    "genre": "Action"
+  },
+  {
+    "id": 101,
+    "title": "Duck Hunt 1",
+    "platform": "Master System",
+    "release_year": 1993,
+    "genre": "Shooter"
+  },
+  {
+    "id": 102,
+    "title": "Pac-Man",
+    "platform": "Master System",
+    "release_year": 1997,
+    "genre": "Arcade"
+  },
+  {
+    "id": 103,
+    "title": "Street Fighter II",
+    "platform": "Game Boy",
+    "release_year": 1988,
+    "genre": "Fighting"
+  },
+  {
+    "id": 104,
+    "title": "Street Fighter II 4",
+    "platform": "Master System",
+    "release_year": 1980,
+    "genre": "Fighting"
+  },
+  {
+    "id": 105,
+    "title": "Street Fighter II 4",
+    "platform": "Atari 2600",
+    "release_year": 1982,
+    "genre": "Fighting"
+  },
+  {
+    "id": 106,
+    "title": "Final Fantasy",
+    "platform": "Game Boy",
+    "release_year": 1983,
+    "genre": "RPG"
+  },
+  {
+    "id": 107,
+    "title": "Gradius",
+    "platform": "Neo Geo",
+    "release_year": 1984,
+    "genre": "Shooter"
+  },
+  {
+    "id": 108,
+    "title": "Punch-Out!!",
+    "platform": "Sega Genesis",
+    "release_year": 1985,
+    "genre": "Sports"
+  },
+  {
+    "id": 109,
+    "title": "Castlevania",
+    "platform": "Neo Geo",
+    "release_year": 1998,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 110,
+    "title": "Donkey Kong",
+    "platform": "NES",
+    "release_year": 1985,
+    "genre": "Platformer"
+  },
+  {
+    "id": 111,
+    "title": "Street Fighter II",
+    "platform": "Master System",
+    "release_year": 1981,
+    "genre": "Fighting"
+  },
+  {
+    "id": 112,
+    "title": "Final Fantasy",
+    "platform": "NES",
+    "release_year": 1994,
+    "genre": "RPG"
+  },
+  {
+    "id": 113,
+    "title": "Bomberman 1",
+    "platform": "Atari 2600",
+    "release_year": 1990,
+    "genre": "Action"
+  },
+  {
+    "id": 114,
+    "title": "Castlevania",
+    "platform": "NES",
+    "release_year": 1981,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 115,
+    "title": "Double Dragon 1",
+    "platform": "Master System",
+    "release_year": 1996,
+    "genre": "Beat 'em up"
+  },
+  {
+    "id": 116,
+    "title": "Gradius",
+    "platform": "Sega Genesis",
+    "release_year": 1980,
+    "genre": "Shooter"
+  },
+  {
+    "id": 117,
+    "title": "Mega Man",
+    "platform": "Master System",
+    "release_year": 1990,
+    "genre": "Platformer"
+  },
+  {
+    "id": 118,
+    "title": "Mega Man",
+    "platform": "Arcade",
+    "release_year": 1987,
+    "genre": "Platformer"
+  },
+  {
+    "id": 119,
+    "title": "Street Fighter II",
+    "platform": "NES",
+    "release_year": 1992,
+    "genre": "Fighting"
+  },
+  {
+    "id": 120,
+    "title": "Sonic the Hedgehog",
+    "platform": "Arcade",
+    "release_year": 1980,
+    "genre": "Platformer"
+  },
+  {
+    "id": 121,
+    "title": "EarthBound",
+    "platform": "SNES",
+    "release_year": 1989,
+    "genre": "RPG"
+  },
+  {
+    "id": 122,
+    "title": "Sonic the Hedgehog",
+    "platform": "NES",
+    "release_year": 1997,
+    "genre": "Platformer"
+  },
+  {
+    "id": 123,
+    "title": "Double Dragon",
+    "platform": "Arcade",
+    "release_year": 1992,
+    "genre": "Beat 'em up"
+  },
+  {
+    "id": 124,
+    "title": "Donkey Kong 5",
+    "platform": "Arcade",
+    "release_year": 1982,
+    "genre": "Platformer"
+  },
+  {
+    "id": 125,
+    "title": "Gradius",
+    "platform": "Master System",
+    "release_year": 1982,
+    "genre": "Shooter"
+  },
+  {
+    "id": 126,
+    "title": "Sonic the Hedgehog 2",
+    "platform": "Game Boy",
+    "release_year": 1983,
+    "genre": "Platformer"
+  },
+  {
+    "id": 127,
+    "title": "Street Fighter II",
+    "platform": "Game Boy",
+    "release_year": 1996,
+    "genre": "Fighting"
+  },
+  {
+    "id": 128,
+    "title": "Punch-Out!!",
+    "platform": "Sega Genesis",
+    "release_year": 1981,
+    "genre": "Sports"
+  },
+  {
+    "id": 129,
+    "title": "Gradius",
+    "platform": "NES",
+    "release_year": 1992,
+    "genre": "Shooter"
+  },
+  {
+    "id": 130,
+    "title": "Metroid 2",
+    "platform": "Game Boy",
+    "release_year": 1997,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 131,
+    "title": "Super Mario Bros.",
+    "platform": "Sega Genesis",
+    "release_year": 1998,
+    "genre": "Platformer"
+  },
+  {
+    "id": 132,
+    "title": "Street Fighter II 5",
+    "platform": "Arcade",
+    "release_year": 1980,
+    "genre": "Fighting"
+  },
+  {
+    "id": 133,
+    "title": "The Legend of Zelda",
+    "platform": "Arcade",
+    "release_year": 1982,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 134,
+    "title": "Pac-Man 2",
+    "platform": "NES",
+    "release_year": 1990,
+    "genre": "Arcade"
+  },
+  {
+    "id": 135,
+    "title": "The Legend of Zelda",
+    "platform": "Master System",
+    "release_year": 1992,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 136,
+    "title": "Metroid",
+    "platform": "Neo Geo",
+    "release_year": 1982,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 137,
+    "title": "Pac-Man",
+    "platform": "Game Boy",
+    "release_year": 1989,
+    "genre": "Arcade"
+  },
+  {
+    "id": 138,
+    "title": "Pac-Man",
+    "platform": "SNES",
+    "release_year": 1991,
+    "genre": "Arcade"
+  },
+  {
+    "id": 139,
+    "title": "Metroid 1",
+    "platform": "Neo Geo",
+    "release_year": 1985,
+    "genre": "Action-Adventure"
+  },
+  {
+    "id": 140,
+    "title": "F-Zero",
+    "platform": "Arcade",
+    "release_year": 1980,
+    "genre": "Racing"
+  }
+]
