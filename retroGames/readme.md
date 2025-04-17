@@ -4,6 +4,7 @@ Liste de jeux retro.
 Affiche tous les jeux avec leurs détails.
 Possibilité de filtrer les jeux par genre ou affiche tous les jeux.
 Exportez la liste des jeux filtrée ou complète vers un fichier JSON.
+Des difficultés au départ pour afficher la date (ReleaseYear) ave un int.
 
 ## Data d'entrée
 

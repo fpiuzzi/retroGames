@@ -11,8 +11,7 @@ namespace retroGames
 
             List<Game> games = LoadGames("listGames.json");
             Console.WriteLine($"Chargement des {games.Count} jeux trouvés.");
-
-            // Regroupement par Platform pour l'affichage initial
+            
             var groupedByPlatform = games.GroupBy(g => g.Platform);
             foreach (var group in groupedByPlatform)
             {
